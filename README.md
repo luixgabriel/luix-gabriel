@@ -1,4 +1,4 @@
-# Hello World! 🤗
+# Not all those who work hard are rewarded, however everyone who succeeds, works hard.
 
  ![Luis Gabriel stats](https://github-readme-stats.vercel.app/api?username=luixgabriel&show_icons=true&theme=tokyonight)
 
