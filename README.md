@@ -1,5 +1,5 @@
-# Not all those who work hard are rewarded, however everyone who succeeds, works hard.
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=40&pause=1000&color=54B689&background=11111100&center=true&vCenter=true&width=1000&lines=Hi%2C+how+are+you%3F;I+hope+you+are+well.;My+name+is+Wagner+Lemes.;Nice+to+meet+you!;Be+Welcome!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=45&pause=1000&color=FFF&background=11111100&center=true&vCenter=true&width=1000&lines=Not+all+those+who+work+hard+are+rewarded,;+however+everyone+who+succeeds,+works+hard." alt="Typing SVG" /></a>
+
 
  ![Luis Gabriel stats](https://github-readme-stats.vercel.app/api?username=luixgabriel&show_icons=true&theme=tokyonight)
 
