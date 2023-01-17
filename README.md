@@ -1,7 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=45&pause=1000&color=FFF&background=11111100&center=true&vCenter=true&width=1000&lines=Not+all+those+who+work+hard+are+rewarded,;+however+everyone+who+succeeds,+works+hard." alt="Typing SVG"/></a>
 
 
- ![Luis Gabriel stats](https://github-readme-stats.vercel.app/api?username=luixgabriel&show_icons=true)
+   ### Hi I'm Luis Gabriel, Full Stack developer in training. ###
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luixgabriel&theme=dark"/>
+  
+
 
 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
