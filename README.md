@@ -1,7 +1,7 @@
 <div align='center'>
-  <h4><b> Hi I'm Luis Gabriel, Full Stack developer in training!</b></h4>
+  <h1><b> Hi I'm Luis Gabriel, Full Stack developer in training!</b></h1>
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=luixgabriel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luixgabriel&theme=dark"/>
+<!--    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luixgabriel&theme=dark"/> -->
 </div>
   
 
